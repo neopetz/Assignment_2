@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment_2</string>
+    <string name="kusina_sa_sanjose">kusina sa sanjose</string>
+    <string name="tinola">Manok\nLuya\nPapaya\nBawang\nSibuyas</string>
+    <string name="sinampalukang_manok">Manok\nSampalok\nSibuyas\nAsin\n</string>
+    <string name="kare_kare">Baka\nBeans\nPeanut Butter\nPetchay\nTalong\nSibuyas\nBawang</string>
+    <string name="afritada">Baboy\nCarrots\nSili\nPatatas\nTomatoes Paste</string>
+    <string name="pakbet">Kalabasa\nOkra\nBeans\nTalong\nKamatis\nBagoong\nAmpalaya</string>
+</resources>
